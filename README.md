@@ -1,5 +1,7 @@
 ## 1、 git（在git bash中操作)
 
+<img src="https://github.com/fuxiaoyangAlex/JavaEE/blob/master/picture/grav.svg" weith="30" height="20"><img src="https://img.shields.io/badge/git-%E6%93%8D%E4%BD%9C%E6%8C%87%E4%BB%A4-green.svg">
+
 - 明确一些git中的概念
 		
 		-） git版本管理工具中四个区域概念：
