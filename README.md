@@ -1,6 +1,6 @@
 ## 1、 git（在git bash中操作)
 
-[git的指令][1]
+[git的指令][https://img.shields.io/badge/git-%E6%93%8D%E4%BD%9C%E6%8C%87%E4%BB%A4-green.svg]
 
 - 明确一些git中的概念
 		
